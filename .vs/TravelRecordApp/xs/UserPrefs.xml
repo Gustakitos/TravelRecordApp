@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F7F54D70-BC14-4F09-A611-24BE2782F636}|Default">
+  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.893A235B-52D2-4F8E-BA7B-FD3E2E0B8E3B" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/HomePage.xaml">
+    <Files>
+      <File FileName="TravelRecordApp/MainPage.xaml" Line="16" Column="36" />
+      <File FileName="TravelRecordApp/MainPage.xaml.cs" Line="22" Column="1" />
+      <File FileName="TravelRecordApp/HomePage.xaml" Line="7" Column="61" />
+      <File FileName="TravelRecordApp/HomePage.xaml.cs" Line="15" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>
